@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 familia = []
 
 # recursive function to scrape a Wikipedia article
-def scrapeWikiArticle(url,generation):
+def findParents(url,generation):
     response = requests.get(url=url)
     soup = BeautifulSoup(response.content, 'html.parser')
 
@@ -30,7 +30,7 @@ def scrapeWikiArticle(url,generation):
                 # go up one more generation
                 gen = generation
                 gen -= 1
-                scrapeWikiArticle("https://en.wikipedia.org" + father['href'], gen)
+                findParents("https://en.wikipedia.org" + father['href'], gen)
 
         if "Mother" in label.text:
             mothers = label.find_next().find_all("a")
@@ -46,10 +46,10 @@ def scrapeWikiArticle(url,generation):
                 # go up one more generation
                 gen = generation
                 gen -= 1
-                scrapeWikiArticle("https://en.wikipedia.org" + mother['href'], gen)
+                findParents("https://en.wikipedia.org" + mother['href'], gen)
                 
     
-scrapeWikiArticle("https://en.wikipedia.org/wiki/Nero", 0)
+findParents("https://en.wikipedia.org/wiki/Nero", 0)
 
 # print out each family member
 for persona in familia:
