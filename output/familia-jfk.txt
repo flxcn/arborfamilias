@@ -1,0 +1,44 @@
+P. J. Kennedy
+P. J. Kennedy
+└── Joseph P. Kennedy Sr.
+    ├── Eunice Kennedy Shriver
+    │   ├── Anthony Shriver
+    │   ├── Bobby Shriver
+    │   ├── Maria Shriver
+    │   │   ├── Katherine Schwarzenegger
+    │   │   └── Patrick Schwarzenegger
+    │   ├── Mark Kennedy Shriver
+    │   └── Timothy Shriver
+    ├── Jean Kennedy Smith
+    │   └── William Kennedy Smith
+    ├── John F. Kennedy
+    │   ├── Caroline Kennedy
+    │   │   ├── Jack Schlossberg
+    │   │   ├── Rose Schlossberg
+    │   │   └── Tatiana Schlossberg
+    │   ├── John F. Kennedy Jr.
+    │   └── Patrick Bouvier Kennedy
+    ├── Joseph P. Kennedy Jr.
+    ├── Kathleen Cavendish, Marchioness of Hartington
+    ├── Patricia Kennedy Lawford
+    │   └── Christopher Lawford
+    ├── Robert F. Kennedy
+    │   ├── Christopher G. Kennedy
+    │   ├── David A. Kennedy
+    │   ├── Douglas Harriman Kennedy
+    │   ├── Joseph P. Kennedy II
+    │   │   └── Joe Kennedy III
+    │   ├── Kathleen Kennedy Townsend
+    │   │   └── Maeve Kennedy McKean
+    │   ├── Kerry Kennedy
+    │   ├── Max Kennedy
+    │   │   └── Max Kennedy Jr.
+    │   ├── Michael LeMoyne Kennedy
+    │   ├── Robert F. Kennedy Jr.
+    │   │   └── Kyra Kennedy
+    │   └── Rory Kennedy
+    ├── Rosemary Kennedy
+    └── Ted Kennedy
+        ├── Edward M. Kennedy Jr.
+        ├── Kara Kennedy
+        └── Patrick J. Kennedy
