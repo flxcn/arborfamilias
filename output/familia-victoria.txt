@@ -1,0 +1,294 @@
+Queen Victoria
+├── Alfred, Duke of Saxe-Coburg and Gotha
+│   ├── Alfred, Hereditary Prince of Saxe-Coburg and Gotha
+│   ├── Marie of Romania
+│   │   ├── Carol II of Romania
+│   │   │   └── Carol Lambrino
+│   │   ├── Elisabeth of Romania
+│   │   ├── Maria of Yugoslavia
+│   │   │   ├── Peter II of Yugoslavia
+│   │   │   ├── Prince Andrew of Yugoslavia
+│   │   │   └── Prince Tomislav of Yugoslavia
+│   │   ├── Prince Mircea of Romania
+│   │   ├── Prince Nicholas of Romania
+│   │   └── Princess Ileana of Romania
+│   │       ├── Archduke Stefan of Austria
+│   │       └── Dominic von Habsburg
+│   ├── Princess Alexandra of Saxe-Coburg and Gotha
+│   │   ├── Gottfried, Prince of Hohenlohe-Langenburg
+│   │   └── Princess Marie Melita of Hohenlohe-Langenburg
+│   │       ├── Hans Albrecht, Hereditary Prince of Schleswig-Holstein
+│   │       └── Princess Marie Alexandra of Schleswig-Holstein
+│   ├── Princess Beatrice of Saxe-Coburg and Gotha
+│   │   ├── Infante Álvaro, Duke of Galliera
+│   │   └── Prince Ataúlfo of Orléans
+│   └── Princess Victoria Melita of Saxe-Coburg and Gotha
+│       ├── Grand Duchess Kira Kirillovna of Russia
+│       ├── Grand Duchess Maria Kirillovna of Russia
+│       │   ├── Emich Kyrill, Prince of Leiningen
+│       │   │   └── Prince Karl Emich of Leiningen
+│       │   ├── Prince Karl of Leiningen
+│       │   │   └── Hermann Leiningen
+│       │   └── Princess Margarita of Leiningen
+│       │       └── Karl Friedrich, Prince of Hohenzollern
+│       └── Grand Duke Vladimir Kirillovich of Russia
+│           └── Grand Duchess Maria Vladimirovna of Russia
+├── Edward VII
+│   ├── Descendants of Queen Victoria
+│   ├── George V
+│   │   ├── Edward VIII
+│   │   ├── George VI
+│   │   │   ├── Elizabeth II
+│   │   │   │   ├── Anne, Princess Royal
+│   │   │   │   │   ├── Peter Phillips
+│   │   │   │   │   └── Zara Tindall
+│   │   │   │   ├── Charles, Prince of Wales
+│   │   │   │   │   ├── Prince Harry, Duke of Sussex
+│   │   │   │   │   │   └── Archie Mountbatten-Windsor
+│   │   │   │   │   └── Prince William, Duke of Cambridge
+│   │   │   │   │       ├── Prince George of Cambridge
+│   │   │   │   │       ├── Prince Louis of Cambridge
+│   │   │   │   │       └── Princess Charlotte of Cambridge
+│   │   │   │   ├── Prince Andrew, Duke of York
+│   │   │   │   │   ├── Princess Beatrice
+│   │   │   │   │   └── Princess Eugenie
+│   │   │   │   └── Prince Edward, Earl of Wessex
+│   │   │   │       ├── James, Viscount Severn
+│   │   │   │       └── Lady Louise Windsor
+│   │   │   └── Princess Margaret, Countess of Snowdon
+│   │   │       ├── David Armstrong-Jones, 2nd Earl of Snowdon
+│   │   │       └── Lady Sarah Chatto
+│   │   ├── Mary, Princess Royal and Countess of Harewood
+│   │   │   ├── George Lascelles, 7th Earl of Harewood
+│   │   │   └── Gerald David Lascelles
+│   │   ├── Prince George, Duke of Kent
+│   │   │   ├── Prince Edward, Duke of Kent
+│   │   │   │   ├── George Windsor, Earl of St Andrews
+│   │   │   │   ├── Lady Helen Taylor
+│   │   │   │   └── Lord Nicholas Windsor
+│   │   │   ├── Prince Michael of Kent
+│   │   │   │   ├── Lady Gabriella Kingston
+│   │   │   │   └── Lord Frederick Windsor
+│   │   │   └── Princess Alexandra, The Honourable Lady Ogilvy
+│   │   │       └── James Ogilvy
+│   │   ├── Prince Henry, Duke of Gloucester
+│   │   │   ├── Prince Richard, Duke of Gloucester
+│   │   │   │   ├── Alexander Windsor, Earl of Ulster
+│   │   │   │   ├── Lady Davina Windsor
+│   │   │   │   └── Prince Richard, Duke of Gloucester
+│   │   │   └── Prince William of Gloucester
+│   │   └── Prince John of the United Kingdom
+│   ├── Louise, Princess Royal
+│   │   ├── Maud Carnegie, Countess of Southesk
+│   │   └── Princess Alexandra, 2nd Duchess of Fife
+│   │       └── Alastair Windsor, 2nd Duke of Connaught and Strathearn
+│   ├── Maud of Wales
+│   │   └── Olav V of Norway
+│   │       ├── Harald V of Norway
+│   │       │   ├── Haakon, Crown Prince of Norway
+│   │       │   │   ├── Prince Sverre Magnus of Norway
+│   │       │   │   └── Princess Ingrid Alexandra of Norway
+│   │       │   └── Princess Märtha Louise of Norway
+│   │       ├── Princess Astrid, Mrs. Ferner
+│   │       └── Princess Ragnhild, Mrs. Lorentzen
+│   ├── Prince Albert Victor, Duke of Clarence and Avondale
+│   └── Princess Victoria of the United Kingdom
+├── Prince Arthur, Duke of Connaught and Strathearn
+│   ├── Prince Arthur of Connaught
+│   │   └── Alastair Windsor, 2nd Duke of Connaught and Strathearn
+│   ├── Princess Margaret of Connaught
+│   │   ├── Carl Johan Bernadotte
+│   │   ├── Ingrid of Sweden
+│   │   │   ├── Margrethe II of Denmark
+│   │   │   │   ├── Frederik, Crown Prince of Denmark
+│   │   │   │   │   ├── Prince Christian of Denmark
+│   │   │   │   │   ├── Prince Vincent of Denmark
+│   │   │   │   │   ├── Princess Isabella of Denmark
+│   │   │   │   │   └── Princess Josephine of Denmark
+│   │   │   │   └── Prince Joachim of Denmark
+│   │   │   │       ├── Prince Felix of Denmark
+│   │   │   │       ├── Prince Henrik of Denmark (born 2009)
+│   │   │   │       ├── Prince Nikolai of Denmark
+│   │   │   │       └── Princess Athena of Denmark
+│   │   │   ├── Princess Benedikte of Denmark
+│   │   │   │   ├── Gustav, 7th Prince of Sayn-Wittgenstein-Berleburg
+│   │   │   │   ├── Princess Alexandra of Sayn-Wittgenstein-Berleburg
+│   │   │   │   └── Princess Nathalie of Sayn-Wittgenstein-Berleburg
+│   │   │   └── Queen Anne-Marie of Greece
+│   │   ├── Prince Bertil, Duke of Halland
+│   │   ├── Prince Gustaf Adolf, Duke of Västerbotten
+│   │   │   ├── Carl XVI Gustaf
+│   │   │   │   ├── Prince Carl Philip, Duke of Värmland
+│   │   │   │   ├── Princess Madeleine, Duchess of Hälsingland and Gästrikland
+│   │   │   │   └── Victoria, Crown Princess of Sweden
+│   │   │   │       ├── Prince Oscar, Duke of Skåne
+│   │   │   │       └── Princess Estelle, Duchess of Östergötland
+│   │   │   ├── Princess Birgitta of Sweden
+│   │   │   ├── Princess Christina, Mrs. Magnuson
+│   │   │   ├── Princess Désirée, Baroness Silfverschiöld
+│   │   │   └── Princess Margaretha, Mrs. Ambler
+│   │   └── Sigvard Bernadotte
+│   └── Princess Patricia of Connaught
+│       └── Alexander Ramsay of Mar
+├── Prince Leopold, Duke of Albany
+│   ├── Charles Edward, Duke of Saxe-Coburg and Gotha
+│   │   ├── Friedrich Josias, Prince of Saxe-Coburg and Gotha
+│   │   │   └── Andreas, Prince of Saxe-Coburg and Gotha
+│   │   ├── Johann Leopold, Hereditary Prince of Saxe-Coburg and Gotha
+│   │   │   └── Ernst Leopold Prinz von Sachsen-Coburg und Gotha
+│   │   │       └── Hubertus Prinz von Sachsen-Coburg und Gotha
+│   │   ├── Prince Hubertus of Saxe-Coburg and Gotha (pilot)
+│   │   └── Princess Sibylla of Saxe-Coburg and Gotha
+│   └── Princess Alice, Countess of Athlone
+│       ├── Lady May Abel Smith
+│       └── Rupert Cambridge, Viscount Trematon
+├── Princess Alice of the United Kingdom
+│   ├── Alexandra Feodorovna (Alix of Hesse)
+│   │   ├── Alexei Nikolaevich, Tsarevich of Russia
+│   │   ├── Grand Duchess Anastasia Nikolaevna of Russia
+│   │   ├── Grand Duchess Maria Nikolaevna of Russia
+│   │   ├── Grand Duchess Olga Nikolaevna of Russia
+│   │   └── Grand Duchess Tatiana Nikolaevna of Russia
+│   ├── Ernest Louis, Grand Duke of Hesse
+│   │   ├── Georg Donatus, Hereditary Grand Duke of Hesse
+│   │   ├── Louis, Prince of Hesse and by Rhine
+│   │   └── Princess Elisabeth of Hesse and by Rhine (1895–1903)
+│   ├── Prince Friedrich of Hesse and by Rhine
+│   ├── Princess Elisabeth of Hesse and by Rhine (1864–1918)
+│   ├── Princess Irene of Hesse and by Rhine
+│   ├── Princess Marie of Hesse and by Rhine (1874–1878)
+│   └── Princess Victoria of Hesse and by Rhine
+│       ├── George Mountbatten, 2nd Marquess of Milford Haven
+│       ├── Louis Mountbatten, 1st Earl Mountbatten of Burma
+│       ├── Louise Mountbatten
+│       └── Princess Alice of Battenberg
+│           ├── Prince Philip, Duke of Edinburgh
+│           ├── Princess Cecilie of Greece and Denmark
+│           ├── Princess Margarita of Greece and Denmark
+│           ├── Princess Sophie of Greece and Denmark
+│           └── Princess Theodora of Greece and Denmark (1906–1969)
+│               ├── Maximilian, Margrave of Baden
+│               │   └── Bernhard, Hereditary Prince of Baden
+│               └── Princess Margarita of Baden
+│                   └── Princess Katarina of Yugoslavia
+├── Princess Beatrice of the United Kingdom
+│   ├── Alexander Mountbatten, 1st Marquess of Carisbrooke
+│   ├── Lord Leopold Mountbatten
+│   ├── Prince Maurice of Battenberg
+│   └── Victoria Eugenie of Battenberg
+│       ├── Alfonso, Prince of Asturias (1907–1938)
+│       ├── Infanta Beatriz of Spain
+│       │   ├── Alessandro Torlonia, 5th Prince of Civitella-Cesi
+│       │   └── Marco Torlonia, 6th Prince of Civitella-Cesi
+│       ├── Infanta María Cristina of Spain
+│       ├── Infante Gonzalo of Spain
+│       ├── Infante Jaime, Duke of Segovia
+│       │   ├── Alfonso, Duke of Anjou and Cádiz
+│       │   │   └── Louis Alphonse de Bourbon
+│       │   └── Gonzalo, Duke of Aquitaine
+│       └── Infante Juan, Count of Barcelona
+│           ├── Infanta Margarita, Duchess of Soria
+│           ├── Infanta Pilar, Duchess of Badajoz
+│           ├── Infante Alfonso of Spain
+│           └── Juan Carlos I
+├── Princess Helena of the United Kingdom
+│   ├── Albert, Duke of Schleswig-Holstein
+│   ├── Prince Christian Victor of Schleswig-Holstein
+│   ├── Princess Helena Victoria of Schleswig-Holstein
+│   └── Princess Marie Louise of Schleswig-Holstein
+├── Princess Louise, Duchess of Argyll
+└── Victoria, Princess Royal
+    ├── Prince Henry of Prussia (1862–1929)
+    │   ├── Prince Henry of Prussia (1900–1904)
+    │   ├── Prince Sigismund of Prussia (1896–1978)
+    │   └── Prince Waldemar of Prussia (1889–1945)
+    ├── Prince Sigismund of Prussia (1864–1866)
+    ├── Prince Waldemar of Prussia (1868–1879)
+    ├── Princess Charlotte of Prussia
+    │   └── Princess Feodora of Saxe-Meiningen
+    ├── Princess Margaret of Prussia
+    │   ├── Philipp, Landgrave of Hesse
+    │   │   ├── Moritz, Landgrave of Hesse
+    │   │   │   ├── Donatus, Landgrave of Hesse
+    │   │   │   └── Mafalda von Hessen
+    │   │   └── Prince Heinrich of Hesse-Kassel
+    │   ├── Prince Christoph of Hesse
+    │   │   └── Princess Christina Margarethe of Hesse
+    │   └── Prince Wolfgang of Hesse
+    ├── Princess Viktoria of Prussia
+    ├── Sophia of Prussia
+    │   ├── Alexander of Greece
+    │   │   └── Alexandra of Yugoslavia
+    │   │       └── Alexander, Crown Prince of Yugoslavia
+    │   │           ├── Peter, Hereditary Prince of Yugoslavia
+    │   │           ├── Prince Alexander of Yugoslavia (born 1982)
+    │   │           └── Prince Philip of Yugoslavia
+    │   ├── George II of Greece
+    │   ├── Helen of Greece and Denmark
+    │   │   └── Michael I of Romania
+    │   │       ├── Irina Walker
+    │   │       ├── Margareta of Romania
+    │   │       ├── Princess Elena of Romania
+    │   │       │   └── Nicholas Medforth-Mills
+    │   │       ├── Princess Marie of Romania (born 1964)
+    │   │       └── Princess Sophie of Romania
+    │   ├── Paul of Greece
+    │   │   └── Queen Sofía of Spain
+    │   ├── Princess Irene, Duchess of Aosta
+    │   │   └── Prince Amedeo, Duke of Aosta (born 1943)
+    │   │       └── Prince Aimone, Duke of Apulia
+    │   └── Princess Katherine of Greece and Denmark
+    └── Wilhelm II, German Emperor
+        ├── Prince Adalbert of Prussia (1884–1948)
+        │   └── Prince Wilhelm Victor of Prussia
+        ├── Prince August Wilhelm of Prussia
+        │   └── Prince Alexander Ferdinand of Prussia
+        ├── Prince Eitel Friedrich of Prussia
+        ├── Prince Joachim of Prussia
+        │   └── Prince Karl Franz of Prussia
+        │       └── Prince Franz Wilhelm of Prussia
+        │           └── George Mikhailovich Romanov
+        ├── Prince Oskar of Prussia
+        │   └── Prince Wilhelm-Karl of Prussia
+        │       └── Prince Oscar of Prussia (born 1959)
+        ├── Princess Victoria Louise of Prussia
+        │   ├── Frederica of Hanover
+        │   │   ├── Constantine II of Greece
+        │   │   │   ├── Pavlos, Crown Prince of Greece
+        │   │   │   │   ├── Prince Achileas-Andreas of Greece and Denmark
+        │   │   │   │   ├── Prince Constantine Alexios of Greece and Denmark
+        │   │   │   │   └── Princess Maria-Olympia of Greece and Denmark
+        │   │   │   ├── Prince Nikolaos of Greece and Denmark
+        │   │   │   ├── Princess Alexia of Greece and Denmark
+        │   │   │   └── Princess Theodora of Greece and Denmark
+        │   │   ├── Princess Irene of Greece and Denmark
+        │   │   └── Queen Sofía of Spain
+        │   │       ├── Felipe VI
+        │   │       │   ├── Infanta Sofía of Spain
+        │   │       │   └── Leonor, Princess of Asturias
+        │   │       ├── Infanta Cristina of Spain
+        │   │       └── Infanta Elena, Duchess of Lugo
+        │   │           ├── Felipe de Marichalar y Borbón
+        │   │           └── Victoria de Marichalar y Borbón
+        │   ├── Prince Ernest Augustus of Hanover (born 1914)
+        │   │   ├── Prince Ernst August of Hanover (born 1954)
+        │   │   │   ├── Prince Christian of Hanover (born 1985)
+        │   │   │   ├── Prince Ernst August of Hanover (born 1983)
+        │   │   │   └── Princess Alexandra of Hanover (born 1999)
+        │   │   ├── Prince Heinrich of Hanover
+        │   │   └── Prince Ludwig Rudolph of Hanover
+        │   └── Prince George William of Hanover (born 1915)
+        └── Wilhelm, German Crown Prince
+            ├── Louis Ferdinand, Prince of Prussia
+            │   ├── Prince Michael of Prussia
+            │   └── Princess Kira of Prussia
+            ├── Prince Frederick of Prussia (1911–1966)
+            │   └── Princess Antonia, Duchess of Wellington
+            │       ├── Arthur Wellesley, Earl of Mornington
+            │       └── Lady Charlotte Wellesley
+            ├── Prince Hubertus of Prussia
+            │   └── Alois-Konstantin, 9th Prince of Löwenstein-Wertheim-Rosenberg
+            │       └── Leo Löwenstein
+            │           └── Alois-Konstantin, 9th Prince of Löwenstein-Wertheim-Rosenberg
+            ├── Prince Wilhelm of Prussia (1906–1940)
+            └── Princess Alexandrine of Prussia (1915–1980)
