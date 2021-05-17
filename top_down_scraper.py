@@ -17,12 +17,13 @@ def findChildren(url,generation,parent_article):
 
     if url not in existing_personae:
         print(title.text)
+        hyperlink = title.text
         existing_personae.add(url)
 
         if parent_article == "":
-            familia.create_node(title.text, url)
+            familia.create_node(hyperlink, url)
         else:
-            familia.create_node(title.text, url, parent=parent_article)
+            familia.create_node(hyperlink, url, parent=parent_article)
 
         infoboxLabels = soup.find_all('th',{"class":"infobox-label"})
         for label in infoboxLabels:
@@ -47,7 +48,7 @@ findChildren(base_article_url, 0,"")
 
 familia.show()
 # print(familia.depth())
-# familia.save2file("familia.txt")
+familia.save2file("familia-augustus.txt")
 # jsonFile = open('familia.json', 'w')
 # jsonFile.write(familia.to_json(with_data=True))
 # jsonFile.close()
